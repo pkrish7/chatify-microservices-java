@@ -22,3 +22,21 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+# IntelliJ IDEA project files
+# Exclude the entire .idea directory
+.idea/*
+
+# Include specific project configuration files
+!.idea/misc.xml
+!.idea/modules.xml
+!.idea/vcs.xml
+!.idea/encodings.xml
+!.idea/codeStyles/*
+!.idea/inspectionProfiles/*
+
+# Exclude user-specific and machine-specific files
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries/
+.idea/shelf/
