@@ -1,1 +1,2 @@
 # chatify-microservices-java
+A real-time chat application built using Spring Boot and microservices architecture. This project demonstrates modern backend practices including WebSockets for real-time messaging, Kafka for asynchronous communication, Eureka for service discovery, Spring Cloud Gateway for routing, and containerization with Docker. Designed to scale and serve as a foundation for future AI/ML integrations.
